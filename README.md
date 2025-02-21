@@ -7,7 +7,7 @@ Web Developer and Designer
 With three years of coding experience, I began my journey in mobile app development using Flutter, mastering foundational skills in cross-platform development. Transitioning to web design and development, I gained expertise in HTML, CSS, and Bootstrap 5, creating responsive and visually engaging websites. I then advanced to React JS, where I strengthened my front-end development skills, building interactive and dynamic web applications. Recently, I’ve returned to Flutter mobile app development, combining my expanded knowledge to create user-centered mobile experiences with a robust, full-stack perspective.
 
 *   🌍  I'm based in Nepal
-*   ✉️  You can contact me at [diwasx17@gmail.com](mailto:diwasx17@gmail.com)
+*   ✉️  You can contact me at [diwas.makaju@outlook.com](mailto:diwas.makaju@outlook.com)
 *   🧠  I'm learning React.js Redux
 *   🤝  I'm open to collaborating on Small Scale Projects
   
